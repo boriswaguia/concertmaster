@@ -17,3 +17,6 @@ target/
 
 # Vscode
 .factorypath
+
+#maven
+pom.xml.versionsBackup
